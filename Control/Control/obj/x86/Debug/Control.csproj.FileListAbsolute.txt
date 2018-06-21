@@ -1,0 +1,26 @@
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.FormVeiculo.resources
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.Form1.resources
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.Properties.Resources.resources
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.csproj.GenerateResource.Cache
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\bin\Debug\Control.exe.config
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\bin\Debug\Control.exe
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\bin\Debug\Control.pdb
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.exe
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.pdb
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.FormFornecedor.resources
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.FormMotorista.resources
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.FormPecas.resources
+C:\Users\note\Desktop\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.Formularios.FormOrdemm.resources
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\bin\Debug\Control.exe.config
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.exe
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.pdb
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\bin\Debug\Control.exe
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\bin\Debug\Control.pdb
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.FormFornecedor.resources
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.FormMotorista.resources
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.Formularios.FormOS.resources
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.FormPecas.resources
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.FormVeiculo.resources
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.Form1.resources
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.Properties.Resources.resources
+D:\unitri\pds\0.1 - Control\ProjetoPDS\control2\Control\Control\obj\x86\Debug\Control.csproj.GenerateResource.Cache
